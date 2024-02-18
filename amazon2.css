@@ -1,0 +1,128 @@
+*{
+    margin:0px;
+    font-family:Arial;
+    border:border-box;
+}
+h1{
+    font-weight:bolder;
+    background-color:green;
+}
+#navBar{
+    background-color:black;
+    height:100px;
+    color:white
+  }
+  #topHalf{
+    height:50px;
+  }
+  #bottomHalf{
+    height:50px
+  }
+  #logo{
+    height:100px;
+    position:absolute;
+    top:-25px
+    
+  }
+  #logoWrapper{
+    margin-bottom:20px;
+    display:inline-block;
+    position:relative;
+    width:150px;
+    
+  }
+  #backToSchool{
+    height:50px;
+    float:right;
+    margin-right:20px
+    
+  }
+  input{
+    vertical-align:top;
+    margin-top:10px;
+    border-radius:10px;
+    height:20px;
+    width:500px;
+  }
+  #department{
+    font-size:25px;
+    padding:10px;
+    margin-left:30px;
+    font-weight:bold;
+    display:inline-block;
+    vertical-align:top;
+    margin-top:10px
+  }
+  #sections{
+    display:inline-block
+  }
+  .section{
+    display:inline-block;
+    vertical-align:top;
+    font-size:15px;
+    margin-top:25px;
+    margin-left:10px
+  }
+  #accountStuff{
+    display:inline-block;
+    float:right;
+    margin-right:20px
+  }
+.header{
+    background-color:black;
+    height:60px;
+}
+.container{
+    width:90%;
+    height:100%;
+    margin:auto;
+}
+.panel{
+    height:35px;
+    background-color: #222f3d;
+    display:flex;
+    color:white;
+    align-items:center;
+    justify-content:space-evenly;
+}
+.panel-ops p{
+    display:inline;
+    margin:15px;
+}
+.panel-ops{
+    width:70%;
+    font-size:0.87rem;
+}
+.panels-Deals{
+    font-size: 0.9rem;
+    font-weight:bolder;
+}
+.shop-section{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#8cb7ae;
+}
+.box{
+    background-color: white;
+    height:450px;
+    width:23%;
+    padding:20px 0px 15px;
+    margin:10px;
+}
+.box-img{
+    height:300px;
+    margin-top:1rem;
+  
+}
+.box-content{
+    margin-left:1rem;
+    margin-right:1rem;
+}
+.box-content p{
+    color:#8cb7ae;
+}
+.shop-section1{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#8cb7ae;
+}
